@@ -56,8 +56,8 @@ I'm Mareena Patrao, a passionate Computer Science Engineering student who loves 
 
 ## ✨ Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 📧 Email: your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mareena-castelino)
+- 📧 Email: mareenacastelino@gmail.com
 - 🌐 Portfolio: *Coming soon!*
 
 ---
